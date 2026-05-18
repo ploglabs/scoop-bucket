@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ploglabs/molly-discord-relay/releases/download/v0.1.0/molly-discord-relay_0.1.0_windows_amd64.tar.gz",
+            "url": "https://github.com/ploglabs/molly-discord-relay/releases/download/v0.1.1/molly-discord-relay_0.1.1_windows_amd64.tar.gz",
             "bin": [
                 "molly-discord-relay.exe"
             ],
-            "hash": "4c270246676a89669c71e6f7fe75dee32e10976d390cfc53747a878ff94bdc01"
+            "hash": "de07e837498c7a5a7ea0a2fe433e32cc4e74469716453f5125e269f474435da5"
         },
         "arm64": {
-            "url": "https://github.com/ploglabs/molly-discord-relay/releases/download/v0.1.0/molly-discord-relay_0.1.0_windows_arm64.tar.gz",
+            "url": "https://github.com/ploglabs/molly-discord-relay/releases/download/v0.1.1/molly-discord-relay_0.1.1_windows_arm64.tar.gz",
             "bin": [
                 "molly-discord-relay.exe"
             ],
-            "hash": "9492bfd8de8f86a804137806e6ec1204619cff8f9db3593647ce0b9cea50830b"
+            "hash": "f95c06b17fb15fc4b175e387da29159bb0ab002191363662a5972e46ee944a9e"
         }
     },
     "homepage": "https://github.com/ploglabs/molly-discord-relay",
