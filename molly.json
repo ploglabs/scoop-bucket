@@ -1,19 +1,19 @@
 {
-    "version": "0.1.6",
+    "version": "0.1.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ploglabs/molly-terminal/releases/download/v0.1.6/molly-terminal_0.1.6_windows_amd64.zip",
+            "url": "https://github.com/ploglabs/molly-terminal/releases/download/v0.1.7/molly-terminal_0.1.7_windows_amd64.zip",
             "bin": [
                 "molly.exe"
             ],
-            "hash": "bae81e7b1ff3a98a76fdf8975b057e94be4534a5b48aef4d2b74e69256992921"
+            "hash": "425c6f6a6b16c0200aeb103f4d197431fd25c6d92c89e52dd68fb370fe204c4f"
         },
         "arm64": {
-            "url": "https://github.com/ploglabs/molly-terminal/releases/download/v0.1.6/molly-terminal_0.1.6_windows_arm64.zip",
+            "url": "https://github.com/ploglabs/molly-terminal/releases/download/v0.1.7/molly-terminal_0.1.7_windows_arm64.zip",
             "bin": [
                 "molly.exe"
             ],
-            "hash": "def9baf0850ee40994c26712c9e6a5ea2824a79ce40e4ef9cd4719bd3846d661"
+            "hash": "03aff6d0c8f63dca699de8797deef5365d03a01e9d56476cd365b9d4c29ca376"
         }
     },
     "homepage": "https://github.com/ploglabs/molly-terminal",
