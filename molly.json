@@ -6,14 +6,14 @@
             "bin": [
                 "molly.exe"
             ],
-            "hash": "92e0b332e243958686be23a14d7a35f56a776a87ce66b77a7ce6c5b6019b6f5e"
+            "hash": "3a261e41098724f5818777c8dd824902ccb75e7d365c0e01847657b52f125584"
         },
         "arm64": {
             "url": "https://github.com/ploglabs/molly-terminal/releases/download/v0.1.8/molly-terminal_0.1.8_windows_arm64.zip",
             "bin": [
                 "molly.exe"
             ],
-            "hash": "5ead528881cf51bdfe9b1305a6e068c40ede2762130ed20b6b772d80c9aa6110"
+            "hash": "87dcf7682d4b6243f9dba832da1a4b8b724a1668d5da19c68554c16bcd281e2c"
         }
     },
     "homepage": "https://github.com/ploglabs/molly-terminal",
